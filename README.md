@@ -32,7 +32,7 @@ PrizePicks-style player-props game for World Cup 2026 — call More or Less on p
 
 ### MEGABITE
 
-Gesture-controlled cooking assistant robot — MediaPipe hand tracking, ESP32 firmware, a React control app and a Fusion 360 casing. Imperial DE1 group project (Human Centred Design). *Code in a private team repository — happy to walk through it.*
+Gesture-controlled cooking assistant robot — MediaPipe hand tracking, ESP32 firmware, a React control app and a Fusion 360 casing. Imperial DE1 group project (Human Centred Design). 
 
 <img src="img/megabite.png" alt="MEGABITE — exploded render of the gesture-controlled cooking assistant" width="700">
 
