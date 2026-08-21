@@ -1,6 +1,6 @@
 # Mustafa Suleman
 
-**MEng Design Engineering @ Imperial College London · Interested in the intersection of engineering, finance, data and sport · London**
+**MEng Design Engineering @ Imperial College London · Interested in the intersection of engineering, finance, data science and sport · London**
 
 First-class in Year 1 (Dean's List) and part of Imperial's 1st XI. Currently a Data Science Intern at Turnleaf Analytics in London, applying machine learning to macro forecasting; previously a Product Engineering Intern at Tewke, building smart-home hardware. Visiting undergraduate at Stanford, summer 2026.
 
