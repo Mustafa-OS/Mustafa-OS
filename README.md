@@ -30,11 +30,11 @@ Athlete brand-equity marketplace where fans trade shares in athletes around an e
 
 PrizePicks-style player-props game for World Cup 2026 — call More or Less on player stat lines and climb the leaderboard. No betting, points only. **[Play the live demo](https://mustafa-os.github.io/golazo-wc26/)**
 
-### [MEGABITE](https://github.com/Mustafa-OS/HandsFreeCookingAssistant)
+### MEGABITE
 
-Gesture-controlled cooking assistant robot — MediaPipe hand tracking, ESP32 firmware, a React control app and a Fusion 360 casing. Imperial DE1 group project (Human Centred Design).
+Gesture-controlled cooking assistant robot — MediaPipe hand tracking, ESP32 firmware, a React control app and a Fusion 360 casing. Imperial DE1 group project (Human Centred Design). *Code in a private team repository — happy to walk through it.*
 
-<a href="https://github.com/Mustafa-OS/HandsFreeCookingAssistant"><img src="img/megabite.png" alt="MEGABITE — exploded render of the gesture-controlled cooking assistant" width="700"></a>
+<img src="img/megabite.png" alt="MEGABITE — exploded render of the gesture-controlled cooking assistant" width="700">
 
 ### Handheld game console
 
