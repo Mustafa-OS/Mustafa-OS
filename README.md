@@ -28,7 +28,7 @@ Athlete brand-equity marketplace where fans trade shares in athletes around an e
 
 ### [Golazo](https://github.com/Mustafa-OS/golazo-wc26)
 
-PrizePicks-style player-props game for World Cup 2026 — call More or Less on player stat lines and climb the leaderboard. No betting, points only. **[Play the live demo](https://mustafa-os.github.io/golazo-wc26/)**
+PrizePicks-style player-props game for World Cup 2026 — call More or Less on player stat lines and climb the leaderboard. **[Play the live demo](https://mustafa-os.github.io/golazo-wc26/)**
 
 ### MEGABITE
 
