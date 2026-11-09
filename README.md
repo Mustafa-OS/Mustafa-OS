@@ -21,52 +21,37 @@ Ranks a GP practice's patients by clinical need, builds a case for a clinician t
 
 <a href="https://github.com/Mustafa-OS/anima"><img src="img/andrew.png" alt="Andrew: outreach queue ranking patients by clinical need" width="800"></a>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏏 [The T20 Analyst](https://github.com/Mustafa-OS/T20-CricketAnalytics)
-<a href="https://github.com/Mustafa-OS/T20-CricketAnalytics"><img src="img/t20-analyst.png" alt="The T20 Analyst: CAIS leaderboard"></a>
+### 🏏 [The T20 Analyst](https://github.com/Mustafa-OS/T20-CricketAnalytics): cricket analytics that rate every ball by how much it mattered
 
 Cricket analytics for **13 T20 leagues and ~1.8 million balls**. I designed **CAIS**, a metric that rates every ball by match situation, so a last-over six against a top bowler counts for more than a meaningless single. Rebuilt nightly with an accuracy check before it publishes.
 
-**[▶ Live site](https://mustafa-os.github.io/T20-CricketAnalytics/)** · Python, pandas, Flask, GitHub Actions
+**[▶ Live site](https://mustafa-os.github.io/T20-CricketAnalytics/)** · [Code](https://github.com/Mustafa-OS/T20-CricketAnalytics) · Python, pandas, Flask, GitHub Actions
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/Mustafa-OS/T20-CricketAnalytics"><img src="img/t20-analyst.png" alt="The T20 Analyst: CAIS leaderboard with tunable scoring controls" width="800"></a>
 
-### 📈 [Bitcoin Options Trading Platform](https://github.com/Mustafa-OS/BTC-Trading-Project)
-<a href="https://github.com/Mustafa-OS/BTC-Trading-Project"><img src="img/svi-vol-surface.png" alt="Automated delta hedger with live activity log"></a>
+### 📈 [Bitcoin Options Trading Platform](https://github.com/Mustafa-OS/BTC-Trading-Project): live pricing, risk and automatic hedging
 
 A live trading dashboard for Bitcoin options on Deribit. It **fits the volatility smile in real time**, measures portfolio risk, and runs a **bot that hedges automatically**, plus a backtester to test hedging rules on past data.
 
-**[▶ Browser demo](https://mustafa-os.github.io/BTC-Trading-Project/)** · Python, NumPy, SciPy, WebSockets
+**[▶ Browser demo](https://mustafa-os.github.io/BTC-Trading-Project/)** · [Code](https://github.com/Mustafa-OS/BTC-Trading-Project) · Python, NumPy, SciPy, WebSockets
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/Mustafa-OS/BTC-Trading-Project"><img src="img/svi-vol-surface.png" alt="Automated delta hedger with live activity log" width="800"></a>
 
-### 🏀 [Agora](https://github.com/Mustafa-OS/agora-mvp)
-<a href="https://github.com/Mustafa-OS/agora-mvp"><img src="img/agora.png" alt="Agora: athlete page with fair-value history and trade panel"></a>
+### 🏀 [Agora](https://github.com/Mustafa-OS/agora-mvp): a marketplace where fans invest in athletes
 
 A Stanford venture prototype: **a marketplace where fans buy shares in an athlete's brand**. As co-founder, I designed the valuation engine that sets each athlete's fair price from their stats, age and fitness.
 
-**[▶ Live demo](https://mustafa-os.github.io/agora-mvp/)** · JavaScript, Python
+**[▶ Live demo](https://mustafa-os.github.io/agora-mvp/)** · [Code](https://github.com/Mustafa-OS/agora-mvp) · JavaScript, Python
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/Mustafa-OS/agora-mvp"><img src="img/agora.png" alt="Agora: athlete page with fair-value history and trade panel" width="800"></a>
 
-### ⚽ [Golazo](https://github.com/Mustafa-OS/golazo-wc26)
-<a href="https://github.com/Mustafa-OS/golazo-wc26"><img src="img/golazo.png" alt="Golazo: call More or Less on World Cup player stats"></a>
+### ⚽ [Golazo](https://github.com/Mustafa-OS/golazo-wc26): a World Cup prediction game for Imperial students
 
-A **World Cup 2026 prediction game for Imperial students**: call More or Less on player stats and climb the leaderboard. Points are scaled by how unlikely a pick is. Built so 1,000 players cost the same in API calls as 10.
+Call More or Less on World Cup player stats and climb the all-Imperial leaderboard. Points are scaled by how unlikely a pick is, and it's built so 1,000 players cost the same in API calls as 10.
 
-**[▶ Play it](https://golazo-wc.web.app)** · React, Firebase, Cloud Functions
+**[▶ Play it](https://golazo-wc.web.app)** · [Code](https://github.com/Mustafa-OS/golazo-wc26) · React, Firebase, Cloud Functions
 
-</td>
-</tr>
-</table>
+<a href="https://github.com/Mustafa-OS/golazo-wc26"><img src="img/golazo.png" alt="Golazo: call More or Less on World Cup player stats" width="800"></a>
 
 ## 🧰 More projects
 
@@ -79,24 +64,21 @@ A **World Cup 2026 prediction game for Imperial students**: call More or Less on
 
 ## 🔧 Hardware
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🤖 MEGABITE: a cooking-assistant robot you control with hand gestures
 
-**MEGABITE**: a cooking-assistant robot you control with hand gestures. Hand tracking with MediaPipe, ESP32 firmware, a React control app and a Fusion 360 casing. Imperial group project.
+Hand tracking with MediaPipe, ESP32 firmware, a React control app and a Fusion 360 casing. Imperial group project (Human Centred Design).
 
-<img src="img/megabite.png" alt="MEGABITE exploded render">
+<img src="img/megabite.png" alt="MEGABITE: exploded render of the gesture-controlled cooking assistant" width="800">
 
-</td>
-<td width="50%" valign="top">
+### 🎮 Handheld games console, built from scratch
 
-**Handheld games console**: built from scratch on a Raspberry Pi Pico. Breadboard prototype → Fusion 360 enclosure → soldered, 3D-printed console running my own MicroPython games.
+Built on a Raspberry Pi Pico: breadboard prototype → Fusion 360 enclosure → soldered, 3D-printed console running my own MicroPython games.
 
-<img src="img/console-breadboard.png" alt="Breadboard prototype" height="120"> <img src="img/console-cad.png" alt="Fusion 360 enclosure" height="120"> <img src="img/console-finished.png" alt="Finished console running Tetris" height="120">
-
-</td>
-</tr>
-</table>
+<p>
+  <img src="img/console-breadboard.png" alt="Breadboard prototype" height="220">
+  <img src="img/console-cad.png" alt="Fusion 360 enclosure design" height="220">
+  <img src="img/console-finished.png" alt="Finished 3D-printed console running Tetris" height="220">
+</p>
 
 ## 🛠️ Toolkit
 
